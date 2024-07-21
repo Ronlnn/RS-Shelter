@@ -1,0 +1,21 @@
+.menu-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	justify-items: center;
+	flex-wrap: nowrap;
+}
+
+.menu-item1 {
+	display: flex;
+	flex-direction: column;
+	
+}
+.menu-item2 {
+	display: flex;
+	gap: 20px; /* Отступы между пунктами меню */
+}
+
+.main-h2 {
+	font-size: 16px;
+}
